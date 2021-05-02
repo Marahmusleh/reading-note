@@ -19,14 +19,12 @@ Growth Mindest means you believe in yourself and espacially in your ability to c
 
 **How I keep myself in a _growth mindest_**
 
-First of all I want to introduce myself, I am Marah Musleh. I have graduated from polytechnic university with a major in computer engineering.
-I always try to have the power to change negativity to positivity,to achieve this, i must be optimistic about my chances for success.Without optimism i can't move forward.
+>I always try to have the power to change negativity to positivity,to achieve this, i must be optimistic about my chances for success.Without optimism i can't move forward.
 
 - I record positive events in my day,no matter how small to focus on the positivies around me.
 - When i make a mistake or fall short of a goal, I haven't failed , I have learned.
 - I take my time to learn, i don't expect to master every topic under the sun in one setting.
 
-Here is my GitHub protofile page: 
-[marah](https://github.com/Marahmusleh)
+
 
 
