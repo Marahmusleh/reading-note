@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Marahmusleh/reading-note/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Growth Mindest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Growth Mindest means you believe in yourself and espacially in your ability to change, learn and develop. Mindest is essential to developing healthy self-esteem. It is an important tool that affects our daily self-dialouge and reinforces our most intimate beliefs,attitudes and feelings about ourselves.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+***Characteristics of a Growth Mindest***
+```
+ Beleives intelligence and talents can be developed.
+ Beleive failures are just temporary setbacks.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marahmusleh/reading-note/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ ![image](https://user-images.githubusercontent.com/64333354/116813757-40326800-ab0a-11eb-90a3-7198d0509ff4.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+**How I keep myself in a _growth mindest_**
+
+First of all I want to introduce myself, I am Marah Musleh. I have graduated from polytechnic university with a major in computer engineering.
+I always try to have the power to change negativity to positivity,to achieve this, i must be optimistic about my chances for success.Without optimism i can't move forward.
+
+- I record positive events in my day,no matter how small to focus on the positivies around me.
+- When i make a mistake or fall short of a goal, I haven't failed , I have learned.
+- I take my time to learn, i don't expect to master every topic under the sun in one setting.
+
+Here is my GitHub protofile page: 
+[marah](https://github.com/Marahmusleh)
+
+
