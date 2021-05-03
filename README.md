@@ -1,33 +1,20 @@
+## Hi, I'm Marah Musleh. I graduated from Al-Balqa' Applied University as a computer engineering. I just started studying a course of a software development in Luminus Technial University College. I'm so excited to learn programming , I like coding and i see myself in the future as a software developer.
 
-Hello everyone , My name is Marah Musleh. Iam 23 years old. 
-This is my GitHub portfolio page: [Marah](https://github.com/Marahmusleh)
-
-### Growth Mindest
+*I learned several topics, and here is the table of contents.*
 
 
-
-Growth Mindest means you believe in yourself and espacially in your ability to change, learn and develop. Mindest is essential to developing healthy self-esteem. It is an important tool that affects our daily self-dialouge and reinforces our most intimate beliefs,attitudes and feelings about ourselves.
-
-***Characteristics of a Growth Mindest***
-```
- Beleives intelligence and talents can be developed.
- Beleive failures are just temporary setbacks.
-```
-
-
-
- ![image](https://user-images.githubusercontent.com/64333354/116813757-40326800-ab0a-11eb-90a3-7198d0509ff4.png)
-
-
-
-**How I keep myself in a _growth mindest_**
-
->I always try to have the power to change negativity to positivity,to achieve this, i must be optimistic about my chances for success.Without optimism i can't move forward.
-
-- I record positive events in my day,no matter how small to focus on the positivies around me.
-- When i make a mistake or fall short of a goal, I haven't failed , I have learned.
-- I take my time to learn, i don't expect to master every topic under the sun in one setting.
+| Subject        | Content      | 
+| :------------- | :----------: | 
+|  Growth Mindest| [Growth Mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
+| Markdown on GitHub  | [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+|  GitHub Pages | [GitHub Pages](https://guides.github.com/features/pages/)   |    
+| Mastering Markdown  | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | 
+|  Git Intro | [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+| Wireframe and Design  | [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) | 
+|  HTML basics | [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) | 
+| Mozilla HTML Docs | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
+| Semantics   | [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) |
+ 
 
 
-
-
+ 
