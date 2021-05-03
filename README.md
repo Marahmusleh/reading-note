@@ -3,18 +3,12 @@
 *I learned several topics, and here is the table of contents.*
 
 
-| Subject        | Content      | 
+| Topics        |  The Content      | 
 | :------------- | :----------: | 
-|  Growth Mindest| [Growth Mindest](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
-| Markdown on GitHub  | [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-|  GitHub Pages | [GitHub Pages](https://guides.github.com/features/pages/)   |    
-| Mastering Markdown  | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | 
-|  Git Intro | [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-| Wireframe and Design  | [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) | 
-|  HTML basics | [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) | 
-| Mozilla HTML Docs | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
-| Semantics   | [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) |
-|  My web page | [Growth](https://marahmusleh.github.io/reading-note/growth) | 
+|  Growth Mindest|  [My web page](https://marahmusleh.github.io/reading-note/growth)
+|  Learning Markdown| [Markdown](https://marahmusleh.github.io/reading-note/read:01)   |    
+|  Git Intro | [Git](https://marahmusleh.github.io/reading-note/read:02)
+| HTML | [About HTML](https://marahmusleh.github.io/reading-note/read:03) | 
  
 
 
