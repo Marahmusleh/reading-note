@@ -11,6 +11,13 @@
 
 ## There are three ways of inserting a style sheet:
 
-1-External CSS
-2-Internal CSS
-3-Inline CSS
+* External CSS
+* Internal CSS
+* Inline CSS
+
+
+ ## There are several different ways to specify colors in CSS.
+* Color Keywords.
+* RGB.
+* RGBA.
+* Hexadecimal.
