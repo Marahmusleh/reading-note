@@ -10,6 +10,7 @@
 |  Git Intro | [Git](https://marahmusleh.github.io/reading-note/read:02)
 | HTML | [About HTML](https://marahmusleh.github.io/reading-note/read:03) | 
 | CSS   | [CSS](https://marahmusleh.github.io/reading-note/read:03b)   |
+| JavaScript | [Javascript](https://marahmusleh.github.io/reading-note/read4a) |
  
 
 
