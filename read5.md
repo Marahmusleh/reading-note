@@ -6,9 +6,9 @@
 
 Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
 
-**Logical OR (||)	expr1 || expr2**	
+**Logical OR **	
 
-Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
+Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, OR returns true if either operand is true; if both are false, returns false.
 
 **Logical NOT (!)	!expr**
 
@@ -38,7 +38,6 @@ A for statement looks as follows:
 A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 
 >while (condition)
-
   >statement
 
 If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
