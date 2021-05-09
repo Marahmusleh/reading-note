@@ -12,6 +12,8 @@
 | CSS   | [CSS](https://marahmusleh.github.io/reading-note/read:03b)   |
 | JavaScript | [Javascript](https://marahmusleh.github.io/reading-note/read4a) |
 | Operator and Loops  | [Loops](https://marahmusleh.github.io/reading-note/read5)        | 
+| JS Functions  | [Functions](https://marahmusleh.github.io/reading-note/read6)        | 
+ 
  
 
 
