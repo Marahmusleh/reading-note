@@ -48,36 +48,17 @@ background-color: #0088dd;}
 Every box has three available properties that
 can be adjusted to control its appearance:
     
--Border
-Every box has a border (even if
-it is not visible or is specified to
-be 0 pixels wide). The border
-separates the edge of one box
-from another.
 
--Margin
- sit outside the edge
-of the border. You can set the
-width of a margin to create a
-gap between the borders of two
-adjacent boxes.
 
--Padding
- is the space between
-the border of a box and any
-content contained within it.
-Adding padding can increase the
-readability of its contents
-
-## “Decisions and Loops”
+## Decisions and Loops
     
 -The for Loop
-The for loop lets JavaScript executes the statements repeatedly until it meets a certain condition. The syntax is:
+It lets JavaScript executes the statements repeatedly until it meets a certain condition. The syntax is:
 
 for (initial expression; condition expression; loop expression)
 { Statements}
     
- -The While Loop
+-The While Loop
 The while statement allows us to control the number of times a procedure is performed. It is important to make that the repetition is not endless.
 The algorithm is illustrated in example 8.3. The program will produce a pop-up dialog box 8 times prompting the user to enter the marks 8 times, 
 then it will add up the marks and show the average mark.
