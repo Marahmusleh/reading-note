@@ -32,6 +32,7 @@ The use of the<strong>  element indicates that its content has strong importanc
 * External CSS.
 * Internal CSS.
 * Inline CSS.
+  
   ## How to write css code?
 -External CSS and then to link the css file with the html, we use as illustrated bellow:
 -internal CSS writing the code in <style> tag that is inserted in the head of the html.
