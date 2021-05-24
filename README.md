@@ -22,10 +22,9 @@
 
 | Topics        |  The Content      | 
 | :------------- | :----------: | 
-|  1-Introductory HTML and JavaScript|  
-| 2-HTML Text, CSS Introduction, and Basic JavaScript Instructions
-|    |    
-| 3- | 
+|  1-Introductory HTML and JavaScript| [click here](https://marahmusleh.github.io/reading-note/class-01) | 
+| 2-HTML Text, CSS Introduction, and Basic JavaScript Instructions|[click here](https://marahmusleh.github.io/reading-note/class-02)    |    
+| 3-HTML Lists, CSS Boxes, JS Control Flow | [click here](https://marahmusleh.github.io/reading-note/class-03) |
 | 4- |  | 
 | 5-  |   |
 | 6- | |
