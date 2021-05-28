@@ -14,60 +14,88 @@ This specifies the height of the image in pixels.
 This specifies the width of the image in pixels.
 
 # Where to Place Images in Your Code
+
 + before a paragraph:
+
 The paragraph starts on a new line after the image.
 + inside the start of a paragraph:
+
 The first row of text aligns with the bottom of the image.
+
 + in the middle of a paragraph:
+
 The image is placed between the words of the p.
 
 **Where you place the image in the code is important because browsers show HTML elements in one of two ways:**
 + **Block elements** always appear on a new line. 
+
 ```
 Examples of block
 elements include the <h1> and
 <p> elements.
+
 ```
+
 + **Inline elements** 
 + sit within a block level element and do not start on a new line. 
 ```
 Examples of
 inline elements include the <b> <em>, and <img> elements.
 ```
+
 *Aligning Images Horizontally*
+
 + **left**
+
 This aligns the image to the left (allowing text to flow around its right-hand side).
+
 + **right**
+
 This aligns the image to the right (allowing text to flow around its
 left-hand side).
 
-*Aligning
-Images Vertically*
+*Aligning Images Vertically*
+
 + **top**
+
 this aligns the first line of the surrounding text with the top of
 the image.
 + **middle**
+
 This aligns the first line of the surrounding text with the middle
 of the image.
 + **bottom**
+
 This aligns the first line of the surrounding text with the bottom
 of the image.
 
 # Image Resolution
+
 JPGs, GIFs, and PNGs belong to a type of image format known as **bitmap**. They are made up of
+
 lots of miniature squares. The resolution of an image is the number of squares that fit within
+
 a 1 inch x 1 inch square area. Images appearing on computer screens are made of tiny squares
+
 called pixels. A small segment of this photograph has been magnified to show how it is
+
 made up of pixels. The web browsers on most desktop computers display images at a
+
 resolution of 72 pixels per inch (ppi). Images in print materials (such as books and magazines)
+
 are made up of tiny circles called dots. These images are usually printed at a resolution of 300
 dots per inch (dp).
 
 When an image is a line drawing (such as a logo, illustration, or
+
 diagram), designers will often create it in vector format.
+
 Vector formatted images are very different to bitmap images.
+
 **Vector images** are created by placing points on a grid, and
+
 drawing lines between those points. A color can then be
+
 added to "fill in" the lines that have been created.
 The advantage of creating line drawings in vector format is that
 you can increase the dimensions of the image without affecting
