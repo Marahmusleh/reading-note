@@ -25,9 +25,9 @@
 |  1-Introductory HTML and JavaScript| [click here](https://marahmusleh.github.io/reading-note/class-01) | 
 | 2-HTML Text, CSS Introduction, and Basic JavaScript Instructions|[click here](https://marahmusleh.github.io/reading-note/class-02)    |    
 | 3-HTML Lists, CSS Boxes, JS Control Flow | [click here](https://marahmusleh.github.io/reading-note/class-03) |
-| 4- |  | 
-| 5-  |   |
-| 6- | |
+| 4-Links,Layout |[click here](https://marahmusleh.github.io/reading-note/class-04)  | 
+| 5-Images,Color,Text HTML |[click here](https://marahmusleh.github.io/reading-note/class-05)   |
+| 6-Document Object Model |[click here](https://marahmusleh.github.io/reading-note/class-06) |
 | 7-  |        | 
 |8-  |         | 
 |  9-|  
