@@ -64,6 +64,7 @@ variables and functions take on new names.*
 + If a function is part of an object, it is called a **method.**
 Methods represent tasks that are associated with
 the object.
+
 ```
 var hote l = {
 name: 'Quay',
