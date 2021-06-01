@@ -28,8 +28,8 @@
 | 4-Links,Layout |[click here](https://marahmusleh.github.io/reading-note/class-04)  | 
 | 5-Images,Color,Text HTML |[click here](https://marahmusleh.github.io/reading-note/class-05)   |
 | 6-Document Object Model |[click here](https://marahmusleh.github.io/reading-note/class-06) |
-| 7-  |        | 
-|8-  |         | 
+| 7-Table,Objects,Function  |[click here](https://marahmusleh.github.io/reading-note/class-07)        | 
+|8-Layout |[click here](https://marahmusleh.github.io/reading-note/class-08)         | 
 |  9-|  
 | 10-|    |    
 | 11- | 
