@@ -30,8 +30,8 @@
 | 6-Document Object Model |[click here](https://marahmusleh.github.io/reading-note/class-06) |
 | 7-Table,Objects,Function  |[click here](https://marahmusleh.github.io/reading-note/class-07)        | 
 |8-Layout |[click here](https://marahmusleh.github.io/reading-note/class-08)         | 
-|  9-|  
-| 10-|    |    
+|  9-Forms|  [click here](https://marahmusleh.github.io/reading-note/class-09)
+| 10-Error Handling and Debugging|[click here](https://marahmusleh.github.io/reading-note/class-10)    |    
 | 11- | 
 | 12- |  | 
 | 13-  |   |
