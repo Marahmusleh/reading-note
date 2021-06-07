@@ -33,7 +33,7 @@
 |  9-Forms|  [click here](https://marahmusleh.github.io/reading-note/class-09)
 | 10-Error Handling and Debugging|[click here](https://marahmusleh.github.io/reading-note/class-10)    |    
 | 11-Images,Practical Informaation | [click here](https://marahmusleh.github.io/reading-note/class-11)
-| 12- |  | 
+| 12-Chart.Js |[click here](https://github.com/Marahmusleh/reading-note)  | 
 | 13-  |   |
 | 14- | |
 | 15-  |        | 
