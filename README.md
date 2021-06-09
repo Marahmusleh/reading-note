@@ -35,6 +35,6 @@
 | 11-Images,Practical Informaation | [click here](https://marahmusleh.github.io/reading-note/class-11)
 | 12-Chart.Js |[click here](https://github.com/Marahmusleh/reading-note)  | 
 | 13-HTML Storage  |[click here](https://marahmusleh.github.io/reading-note/class-13)  |
-| 14- | |
-| 15-  |        | 
+| 14-CSS Transforms, Transitions, and Animations |[click here](https://marahmusleh.github.io/reading-note/class-14b) |
+| 15- What Google Learned About Teams |[click here](https://marahmusleh.github.io/reading-note/class-14b)        | 
  
