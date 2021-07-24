@@ -1,6 +1,7 @@
 ## Hi, I'm Marah Musleh. I graduated from Al-Balqa' Applied University as a computer engineer. I just started studying a course of a software development in Luminus Technial University College. I'm so excited to learn programming , I like coding and i see myself in the future as a software developer.
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
+
 
 *I learned several topics, and here is the table of contents.*
 
@@ -17,7 +18,7 @@
 | JS Functions  | [Functions](https://marahmusleh.github.io/reading-note/read6)        | 
  
  
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 
 | Topics        |  The Content      | 
@@ -37,4 +38,20 @@
 | 13-HTML Storage  |[click here](https://marahmusleh.github.io/reading-note/class-13)  |
 | 14-CSS Transforms, Transitions, and Animations |[click here](https://marahmusleh.github.io/reading-note/class-14b) |
 | 15- What Google Learned About Teams |[click here](https://marahmusleh.github.io/reading-note/class-14b)        | 
+
+## Code 301 - Intermediate Software Development
  
+| Topics     | The Content |
+| ----------- | ----------- |
+| 1-     | Title       |
+| 2-   | Text        |
+| 3-     | Title       |
+| 4-   | Text        |
+| 5-      | Title       |
+| 6-   | Text        |
+| 7-     | Title       |
+| 8-   | Text        |
+| 9-     | Title       |
+| 10-   | Text        |
+| 11-     | Title       |
+| 12-   | Text        |
