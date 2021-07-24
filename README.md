@@ -1,3 +1,5 @@
+## Code 101 Reading Notes
+
 ## Hi, I'm Marah Musleh. I graduated from Al-Balqa' Applied University as a computer engineer. I just started studying a course of a software development in Luminus Technial University College. I'm so excited to learn programming , I like coding and i see myself in the future as a software developer.
 
 ## Code 102 - Intro to Software Development
