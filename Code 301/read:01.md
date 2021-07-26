@@ -60,3 +60,4 @@ ReactDOM.render(
   <h1>text From React File use JSX</h1>,
   document.getElementById('root')
 );
+```
