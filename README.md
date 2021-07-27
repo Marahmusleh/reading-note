@@ -46,7 +46,7 @@
 | Topics     | The Content |
 | ----------- | ----------- |
 | 1-Introduction to React and Components  |[React](https://marahmusleh.github.io/reading-note/Code%20301/read:01)    |
-| 2-   | Text        |
+| 2- State And Props | [click here](https://marahmusleh.github.io/reading-note/Code%20301/read02)       |
 | 3-     | Title       |
 | 4-   | Text        |
 | 5-      | Title       |
