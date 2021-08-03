@@ -8,7 +8,8 @@
 3. What is an identifer of a resource? Give an example.
 
 * A resource has an identifier, which is a URI that uniquely identifies that resource.
-for example :https://adventure-works.com/orders/1
+for example :
+* (https://adventure-works.com/orders/1)
 
 4. What are the most common HTTP verbs?
 
@@ -18,7 +19,7 @@ for example :https://adventure-works.com/orders/1
 * Resource URIs should be based on nouns (the resource) and not verbs (the operations on the resource).
 6. Give an example of a good URI.
 
-* https://adventure-works.com/orders
+* (https://adventure-works.com/orders)
 7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
 * “chatty” web APIs that expose a large number of small resources. Such API may require a client application to send multiple requests to find all of the data that it requires. And we should avoid using such API’s and instead denormalizing the data and combining related information into bigger resources.
