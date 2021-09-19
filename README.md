@@ -5,7 +5,6 @@
 ## Code 102 - Intro to Software Development
 
 
-*I learned several topics, and here is the table of contents.*
 
 
 | Topics        |  The Content      | 
@@ -57,3 +56,57 @@
 | 10-   | Text        |
 | 11-     | Title       |
 | 12-   | Text        |
+
+
+## Code 401 - Advanced Software Development
+
+
+
+
+| Topics     | The Content |
+| ----------- | ----------- |
+| 1-Java Basics  |    |
+| 2-Arrays,Loops,Imports |       |
+| 3-Maps, primitives, File I/O    |       |
+| 4-OOP  | Text        |
+| 5-      | Title       |
+| 6- Inheritance and Interfaces   | Text        |
+| 7- Inheritance day 2    | Title       |
+| 8- OO Design  | Text        |
+| 9- WRRC and Java    | Title       |
+| 10- Stacks & Queues  | Text        |
+| 11- Spring    | Title       |
+| 12-Spring RESTful Routing & Static Files   | Text        |
+| 13-Related Resources and Integration Testing   | Text        |
+| 14-Trees  | Text        |
+| 15-   | Text        |
+| 16-Spring Authentication   | Text        |
+| 17- Spring Authorization  | Text        |
+| 18- Web App Security  | Text        |
+| 19- Spring and Sockets  | Text        |
+| 20-Android Fundamentals   | Text        |
+| 21-Intents, Activities, and SharedPreferences   | Text        |
+| 22- RecyclerView  | Text        |
+| 23- Room | Text        |
+| 24- Hash Tables  | Text        |
+| 25- Espresso | Text        |
+| 26- Serverless and Amplify| Text        |
+| 27- GraphQL @connection | Text        |
+| 28- Monetization | Text      |
+| 29- Graphs | Text      |
+| 30- S3 | Text      |
+| 27- Cognito | Text      |
+| 28- Notification | Text      |
+| 29-  Kinesis | Text      |
+| 30-  Intent Filters | Text      |
+| 31-  Location | Text      |
+| 32-  Ethics in Tech | Text      |
+| 31-  Kinesis & Analytics | Text      |
+
+
+
+
+
+
+
+
