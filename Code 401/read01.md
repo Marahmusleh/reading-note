@@ -70,21 +70,6 @@ float anArrayOfFloats[];
 
 ## Operators
 
-* Postfix: expr++ expr--
-* Unary: ++expr --expr +expr -expr ~ !
-* Multiplicative: * / %
-* Additive: + -
-* Relational: < > <= >= instanceof
-* Equality: == !=
-* Logical AND: &&
-* Logical OR: ||
-* Ternary: ? :
-* Bitwise AND: &
-* Bitwise exclusive OR: ^
-* Bitwise inclusive OR: |
-* Shift: << >> >>>
-* Assignment: = += -= *= /= %= &= ^= |= <<= >>= >>>=
-
 ```
 
 Simple Assignment Operator
@@ -176,8 +161,9 @@ It is the the action a computer takes to gather the human-readable code and tran
 
 ### Searching for a term
 You can find things in the API documentation in a number of different ways. Each way is convenient in one situation or another. For example, Java has a method named System.out.println. What follows describes two ways to look up the System.out.println method:
-* You can use this index to find terms for Java's API documentation, Visit [Java™ Platform
+*  Using the index, Visit [Java™ Platform
 Standard Ed. 8](https://docs.oracle.com/javase/8/docs/api/). This article also gives an explanation of how to use this index, and search for a specific package or class.
+* Using the list of classes.
 * To create the API documentation, the captains of Java ran a program called javadoc. The javadoc program took lines like these right out of the PrintStream.java file and used the lines to make the documentation that you see in your web browser.When you download the JDK, you get the javadoc program as part of the deal.
 
 
