@@ -141,13 +141,16 @@ Bicycle myBike = new Bicycle(); // object creation statement
 * The most basic control flow statement supported by the Java programming language is the if-then statement.
 * The switch statement allows for any number of possible execution paths.
 * The do-while statement is similar to the while statement, but evaluates its expression at the bottom of the loop.
+
  ### How do you write an infinite loop using the for statement?
+
 Answer:
 
 for ( ; ; ) {
 
 }
 ### How do you write an infinite loop using the while statement?
+
 Answer:
 
 while (true) {
@@ -155,11 +158,13 @@ while (true) {
 }
 
 ## Compiling Java
+
 It is the the action a computer takes to gather the human-readable code and translate it into the 1's and 0's required to make it machine-readable.
 
 ## Making Sense of Java’s API Documentation
 
 ### Searching for a term
+
 You can find things in the API documentation in a number of different ways. Each way is convenient in one situation or another. For example, Java has a method named System.out.println. What follows describes two ways to look up the System.out.println method:
 *  Using the index, Visit [Java™ Platform
 Standard Ed. 8](https://docs.oracle.com/javase/8/docs/api/). This article also gives an explanation of how to use this index, and search for a specific package or class.
