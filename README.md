@@ -69,8 +69,8 @@
 
 | Topics     | The Content |
 | ----------- | ----------- |
-| 1-Java Basics  |    |
-| 2-Arrays,Loops,Imports |       |
+| 1-Java Basics  |[click here](https://marahmusleh.github.io/reading-note/Code%20401/read01)    |
+| 2-Arrays,Loops,Imports |[click here](https://marahmusleh.github.io/reading-note/Code%20401/read02)       |
 | 3-Maps, primitives, File I/O    |       |
 | 4-OOP  | Text        |
 | 5-      | Title       |
