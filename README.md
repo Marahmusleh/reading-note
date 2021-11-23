@@ -1,8 +1,4 @@
-## Code 101 Reading Notes
 
-## Hi, I'm Marah Musleh. I graduated from Al-Balqa' Applied University as a computer engineer.
-
-## I am already enrolled in an Advanced Software Development in Full-Stack Java intensive course certified by Code Fellows in collaboration with ASAC.
 
 
 
